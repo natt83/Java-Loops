@@ -8,7 +8,7 @@ public class TabladeMultiplicar {
         System.out.print("1");
         int numero = scanner .nextInt();
 
-        for ( int i = 1; i = <= 10; i ++){
+        for ( int i = 1; i <= 10; i ++){
             int resultado = numero * i;
             System.out.println(numero + " x " + i + " = " + resultado);
 
